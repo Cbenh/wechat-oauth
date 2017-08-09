@@ -1,14 +1,13 @@
 {
   "name": "wechat-oauth",
   "version": "1.2.1",
-  "description": "微信公共平台OAuth",
-  "main": "lib/oauth.js",
+  "description": "wechat OAuth/Oauth Componant",
   "scripts": {
     "test": "make test-all"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-webot/wechat-oauth.git"
+    "url": "https://github.com/Cbenh/wechat-oauth.git"
   },
   "keywords": [
     "weixin",
@@ -27,7 +26,7 @@
     "rewire": "*",
     "istanbul": "*"
   },
-  "author": "Jackson Tian",
+  "author": "",
   "license": "MIT",
   "readmeFilename": "README.md",
   "directories": {

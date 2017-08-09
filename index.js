@@ -1,5 +1,5 @@
-var oauth = require("./lib/oauth");
-var oauthComponant = require("./lib/oauthComponant");
+var Oauth = require("./lib/oauth");
+var OauthComponant = require("./lib/oauthComponant");
 
-exports.OAuth = oauth;
-exports.OAuthComponant = oauthComponant;
+exports.OAuth = Oauth.OAuth;
+exports.OAuthComponant = OauthComponant.OAuthComponant;
