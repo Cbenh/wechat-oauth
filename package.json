@@ -1,6 +1,6 @@
 {
   "name": "wechat-oauth",
-  "version": "1.2.1",
+  "version": "1.2.5",
   "description": "wechat OAuth/Oauth Componant",
   "scripts": {
     "test": "make test-all"
