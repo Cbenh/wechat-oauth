@@ -1,5 +1,5 @@
 {
-  "name": "wechat-oauth",
+  "name": "@walkthechat/wechat-oauth",
   "version": "1.2.5",
   "description": "wechat OAuth/Oauth Componant",
   "main": "index.js",
